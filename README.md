@@ -8,6 +8,8 @@ Much thanks go to Brad Traversy for the tutorial. I learned how to use the pixab
 
 # Screenshots of the application
 
+![Uploading Screen Shot 2020-06-11 at 1.23.13 PM.png…]()
+
 # Installation
 
 To run this locally, clone the repo:
