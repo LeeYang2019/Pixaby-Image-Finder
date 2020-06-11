@@ -10,7 +10,7 @@ Api link: https://pixabay.com/api
 
 # Screenshots of the application
 
-![Uploading Screen Shot 2020-06-11 at 1.23.13 PM.png…]()
+![Screen Shot 2020-06-11 at 1 23 13 PM](https://user-images.githubusercontent.com/46943342/84421345-6fd23c00-abe9-11ea-8cf7-464687d14a2b.png)
 
 # Installation
 
