@@ -1,4 +1,4 @@
-# WeatherApp
+# Pixaby-Image-Finder
 
 This application allows users to enter a search term.
 
