@@ -1,6 +1,8 @@
 # WeatherApp
 
-This application allows users to enter a city to obtain current weather as well as a 5-day forecast for that city. Current weather includes temperature, humidity, wind speed, and the UV index value. User can continue to add cities to this list and when they refresh the page, local storage should save search.
+This application allows users to enter a search term.
+
+Much thanks go to Brad Traversy for the tutorial. I learned how to use the pixaby api to fetch images and, using Material UI, display those images on an aesthetically pleasing UI.
 
 # Link to deployed application
 
@@ -8,10 +10,8 @@ This application allows users to enter a city to obtain current weather as well 
 
 # Installation
 
-# Contributors
+To run this locally, clone the repo:
 
-@ Lee Yang
+Then, run npm install to install dependences.
 
-# Licensing
-
-@ Lee Yang
+Afterwards, run npm start to start the react server.
