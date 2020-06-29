@@ -9,11 +9,13 @@ Api link: https://pixabay.com/api
 
 ## Goals
 
+The following are what I learned from this project:
+
 <ol>
-    <li>Gained additional experience working with React</li>
-    <li>Gained experience working with material-ui</li>
-    <li>Worked with Rest API</li>
-    <li>Worked with Heroku to deploy application</li>
+    <li>Gained additional experience working with React.</li>
+    <li>Gained experience working with material-ui.</li>
+    <li>Worked with Rest API.</li>
+    <li>Deployed application to SURGE.</li>
 </ol>
 
 ## Link to deployed application
