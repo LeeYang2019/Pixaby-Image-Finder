@@ -11,12 +11,14 @@ Api link: https://pixabay.com/api
 
 <ol>
     <li>Gained additional experience working with React</li>
-    <li>Gained experience working with MaterialUI</li>
+    <li>Gained experience working with material-ui</li>
     <li>Worked with Rest API</li>
     <li>Worked with Heroku to deploy application</li>
 </ol>
 
 ## Link to deployed application
+
+Link: meaty-arithmetic.surge.sh
 
 ## Screenshots of the application
 
